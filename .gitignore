@@ -136,3 +136,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+sui-testnet-v1.45.2-macos-arm64/sui
+sui-testnet-v1.45.2-macos-arm64/sui-debug
